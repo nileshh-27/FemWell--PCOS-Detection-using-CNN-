@@ -1,7 +1,7 @@
 # 🚀 FemWell - AI-Powered Women's Health Analysis
 
 ## 📌 Project Overview
-FemWell is an AI-powered web application that assists in analyzing ultrasound images, survey responses, and lab results for women's health diagnostics. It features user authentication, a dashboard for different analysis tools, and a deep learning model for ultrasound image classification.
+FemWell is an AI-powered web application created during Forge Alumunus - Insipira 2025, 24Hr Hackathon, which assists in analyzing ultrasound images, survey responses, and lab results for women's health diagnostics. It features user authentication, a dashboard for different analysis tools, and a deep learning model for ultrasound image classification.
 
 ---
 
@@ -76,13 +76,21 @@ Application will run at: **http://127.0.0.1:5000/**
 
 ## 📸 Screenshots
 ### 🔹 **Login & Register**
-![Login Page](static/screenshots/login.png)
+![image](https://github.com/user-attachments/assets/3aeb6573-e189-4a05-9736-93c5fa1f88a6)
+
 
 ### 🔹 **Analysis Dashboard**
-![Dashboard](static/screenshots/dashboard.png)
+![image](https://github.com/user-attachments/assets/ac511831-aa62-463d-8bc9-b63fba926df4)
+
 
 ### 🔹 **Ultrasound Analysis**
-![Ultrasound AI](static/screenshots/ultrasound.png)
+![image](https://github.com/user-attachments/assets/5490bbf7-9b12-4aba-944b-01aaee0b251b)
+![image](https://github.com/user-attachments/assets/e909f8e8-5ea8-4f49-b767-745113abbf8c)
+
+### 🔹 **Survey Analysis**
+![image](https://github.com/user-attachments/assets/7825bf2a-c3c3-42de-838a-93d4138578f8)
+
+
 
 ---
 
@@ -103,24 +111,11 @@ Application will run at: **http://127.0.0.1:5000/**
 - Accepts ultrasound images (JPG, PNG, JPEG) and classifies them as **Affected / Not Affected**.
 - Uses **OpenCV** to mark predictions on the image.
 
----
 
-## 🌟 Contributing
-1. **Fork** the repository.
-2. Create a **new branch** (`feature-branch`).
-3. **Commit** changes.
-4. Push to your **forked repo**.
-5. Create a **Pull Request (PR)**.
 
----
-
-## 📜 License
-This project is licensed under the **MIT License**.
-
----
 
 ## 📞 Contact
 For questions or collaboration, contact:  
-📧 **your-email@example.com**  
-🔗 [GitHub](https://github.com/your-username)
+📧 **karrinileshreddy@gmail.com**  
+🔗 [GitHub](https://github.com/nileshh-27)
 
