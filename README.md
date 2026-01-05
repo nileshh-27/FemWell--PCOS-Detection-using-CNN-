@@ -118,7 +118,7 @@ Application will run at: **http://127.0.0.1:5000/**
 For questions or collaboration, contact:  
 📧 **karrinileshreddy@gmail.com** 
 📧 **saimanvitha.chevuru.1@gmail.com**
-📧 **kothapallishivani05@gmail.com**
+📧 **kothapallishivani05@gmail.com** (Removed As a Team Member as of Jan 2026)
 🔗 [GitHub](https://github.com/nileshh-27)
 🔗 [GitHub](https://github.com/Saimanvitha-11)
 
